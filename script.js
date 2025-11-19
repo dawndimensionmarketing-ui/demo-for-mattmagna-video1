@@ -1,5 +1,7 @@
 // Shopping cart utility functions
 // This file intentionally contains multiple issues for demo purposes.
+// This file is intentionally messy for AI review demo.
+
 var masterPassword = "skgihihiafh"
 var MasterAPIKey= "Basic jafidfdhf989rhjifja93r" //top secret worth millions of dolllars do not share. 
 
